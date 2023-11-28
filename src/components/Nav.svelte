@@ -25,7 +25,7 @@ const menuItems = [
     <div class="container">
       <div class="main-header">
         <div class="header-left">
-          <div class="header-logo"><a class="d-flex" href="index.html"><img alt="Agon" src="assets/imgs/template/logo.svg"></a></div>
+          <div class="header-logo"><a class="d-flex" href="/"><img alt="Easun" src="assets/imgs/template/logo.png"></a></div>
           <div class="header-nav">
             <nav class="nav-main-menu d-none d-xl-block">
               <ul class="main-menu">

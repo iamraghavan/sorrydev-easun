@@ -62,9 +62,9 @@
         <div class="row">
           <div class="col-md-6">
             <span class="color-gray-400 text-body-lead">{copyright}</span>
-            <a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Privacy policy</a>
-            <a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Cookies</a>
-            <a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Terms of service</a>
+            <a class="text-body-text color-gray-400 ml-50" href="/">Privacy policy</a>
+            <a class="text-body-text color-gray-400 ml-50" href="/">Cookies</a>
+            <a class="text-body-text color-gray-400 ml-50" href="/">Terms of service</a>
           </div>
           <div class="col-md-6 text-center text-lg-end text-md-end">
             <span class="color-gray-400 text-body-lead">Bumble Bees IT Solutions</span>
