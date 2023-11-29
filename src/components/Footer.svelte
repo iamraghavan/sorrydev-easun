@@ -49,7 +49,8 @@
             <div class="map-container">
                 <iframe
                   class="map-iframe"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224462.85747136277!2d-74.0065!3d40.7141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2588f046ee661%3A0xa3955a8b9d4e6701!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1604886752110!5m2!1sen!2sus"
+                  
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1943.0541724226728!2d80.17975430651549!3d13.09231944679526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263f0d85b3793%3A0xb2f6afe2e1c476e2!2sSrinivasa%20Nagar%2C%20Padi%2C%20Chennai%2C%20Tamil%20Nadu%20600050!5e0!3m2!1sen!2sin!4v1701270134613!5m2!1sen!2sin"
                   allowfullscreen="true"
                   loading="lazy"
                   title="Google Map of New York, NY"

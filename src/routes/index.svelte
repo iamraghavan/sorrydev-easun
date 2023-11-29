@@ -1,4 +1,27 @@
+<script context="module">
+  // Import the Google One Tap script
+  import '../one-tap';
 
+  // Your Google API key
+  const GOOGLE_API_KEY = '296534124626-7lpa6e1b9jqdgcr0h7pbej1u1032tm65.apps.googleusercontent.com';
+</script>
+
+<script>
+  // Initialize Google One Tap
+  const initOneTap = () => {
+    google.accounts.id.initialize({
+      client_id: "296534124626-7lpa6e1b9jqdgcr0h7pbej1u1032tm65.apps.googleusercontent.com",
+      callback: onGoogleSignIn,
+    });
+  };
+
+  // Callback function for Google Sign-In
+  const onGoogleSignIn = (response) => {
+    console.log('Google Sign-In Response:', response);
+
+    // Handle the user sign-in response as needed
+  };
+</script>
 
 <section class="section-box">
     <div class="banner-hero banner-1">
